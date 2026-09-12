@@ -1,0 +1,16 @@
+system,item,target_spec,retail_estimate_usd,bargain_target_usd,max_sensible_usd,status
+Transmission,Max-effort NAG1,300M input / upgraded output / added clutch capacity / HD sprags / validated VB-pump,6250,4500,6500,quote
+Converter,Multi-disc lockup converter,9.5-inch approximately 2800 rpm stall,1200,800,1300,quote
+Flexplate,SFI flexplate,6.2-to-NAG1 compatible with new high-grade bolts,450,300,500,verify-fitment
+Transmission cooling,External cooler package,stacked-plate cooler + thermal bypass + lines + logging,900,600,1000,source
+Transfer case,Built NV146,HD chain-bearings / upgraded clutch pack / pump-seal service,2700,2000,3000,quote
+Front driveshaft,HD custom shaft,vendor-designed after final geometry,1400,900,1500,measure-first
+Rear driveshaft,HD custom rear,4-inch x 0.125 aluminum baseline or vendor equivalent,1500,1000,1600,measure-first
+Rear differential,Wavetrac LSD,Wavetrac in refreshed 226 mm housing,1600,1100,1800,source
+Rear axles,HD axle shafts,chromoly/300M equivalent matched to hub-spline package,1100,750,1200,source
+Front differential,Refresh stock 200 mm,inspect bearings-seals-gear condition,700,400,900,retain
+Front CVs-hubs,OE-quality refresh as needed,retain architecture and replace by condition,1000,500,1200,condition-based
+Mounts-bushings,Performance mount package,engine + trans + front diff bushings with street NVH target,900,600,1000,source
+Fluids-service,Driveline fluids and service materials,high-quality ATF / diff / TC fluids and filters,700,500,800,source
+Tuning,Drivetrain calibration,gear torque limits + shift torque management + logging,1500,1000,1800,quote
+Validation,Dyno-road commissioning,thermal-vibration-AWD validation,1200,800,1500,quote
